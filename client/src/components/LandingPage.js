@@ -5,9 +5,6 @@ import SearchForm from './SearchForm';
 
 import { GET_JOBPOSTINGS } from '../utils/queries';
 import '../styles/CustomStyle.css';
-import { Image } from 'semantic-ui-react'
-
-import image from '../images/Project_71-01.jpg'
 
 const LandingPage = () => {
   
@@ -35,8 +32,6 @@ const LandingPage = () => {
     
     return (
         <div className="landingPageConatiner"> 
-          {/* banner image   */}
-        {/* <Image src={image} /> */}
           <div className='overlay'></div>
           <SearchForm 
             value={search}

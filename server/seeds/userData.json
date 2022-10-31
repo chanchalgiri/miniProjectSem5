@@ -6,12 +6,6 @@
       "role":"employer"
     },
     {
-      "username": "Max Kanat-Alexander",
-      "email": "mkanatalexander@test.com",
-      "password": "password02",
-      "role":"employer"
-    },
-    {
       "username": "shivam",
       "email": "shivam@test.com",
       "password": "shivam",
@@ -19,15 +13,9 @@
     },
     {
 
-      "username": "Kent Beck",
-      "email": "kbeck@test.com",
-      "password": "password04",
-      "role":"seeker"
-    },
-    {
-      "username": "Edward V. Berard",
-      "email": "evberard@test.com",
-      "password": "password05",
-      "role":"seeker"
+      "username": "chanchal",
+      "email": "chanchal@test.com",
+      "password": "chanchal",
+      "role":"employer"
     }
 ]
